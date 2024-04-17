@@ -35,7 +35,7 @@ public class Category {
 	}
 	@Override
 	public String toString() {
-		return "Category [id=" + id + ", name=" + name + ", products=" + products + "]";
+		return "Category [id=" + id + ", name= " + name + ", products=" + products + "]";
 	}
 	public void setName(String name) {
 		this.name = name;
